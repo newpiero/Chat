@@ -2,6 +2,7 @@ package Server.GUI;
 
 import Server.Core.ChatServer;
 import Server.Core.ChatServerListener;
+import Server.Core.LogsChats;
 
 import javax.swing.*;
 import java.awt.*;
@@ -23,7 +24,7 @@ public class ServerGUI extends JFrame implements ActionListener, Thread.Uncaught
     private final JTextArea log = new JTextArea();
 
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(new Runnable() {
+       SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
                 new ServerGUI();
@@ -53,6 +54,8 @@ public class ServerGUI extends JFrame implements ActionListener, Thread.Uncaught
         add(panelTop, BorderLayout.NORTH);
         add(scrollLog, BorderLayout.CENTER);
         setVisible(true);
+
+
     }
 
     @Override
@@ -85,6 +88,8 @@ public class ServerGUI extends JFrame implements ActionListener, Thread.Uncaught
         SwingUtilities.invokeLater(() -> {
             log.append(msg + "\n");
             log.setCaretPosition(log.getDocument().getLength());
+
         });
+
     }
 }

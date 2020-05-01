@@ -1,6 +1,7 @@
 package Client;
 
 import Common.Library;
+import Server.Core.LogsChats;
 import network.SocketThread;
 import network.SocketThreadListener;
 
@@ -224,6 +225,7 @@ public class ClientGUI extends JFrame implements ActionListener, Thread.Uncaught
                 throw new RuntimeException("Unknown message type: " + value);
         }
         //        wrtMsgToLogFile(msg, username);
+
 
     }
 }
