@@ -88,6 +88,7 @@ public class ServerGUI extends JFrame implements ActionListener, Thread.Uncaught
         SwingUtilities.invokeLater(() -> {
             log.append(msg + "\n");
             log.setCaretPosition(log.getDocument().getLength());
+            LogsChats.saveMsgServerLogFile(msg);
 
         });
 

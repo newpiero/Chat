@@ -1,0 +1,308 @@
+20:06:35: Chat server: server thread start
+20:06:35: Chat server: server socket created
+20:06:36: Chat server: socket accepted
+20:06:36: SocketThread/127.0.0.1:50570: start socket thread
+20:06:36: SocketThread/127.0.0.1:50570: socket thread is ready
+20:07:03: SocketThread/127.0.0.1:50570: Exceptionjava.net.SocketException: Socket closed
+20:07:13: Chat server: server thread start
+20:07:13: Chat server: server socket created
+20:07:18: Chat server: socket accepted
+20:07:18: SocketThread/127.0.0.1:50778: start socket thread
+20:07:18: SocketThread/127.0.0.1:50778: socket thread is ready
+20:07:39: AWT-EventQueue-0: Server is already running
+20:07:42: SocketThread/127.0.0.1:50778: Exceptionjava.io.EOFException: null
+20:07:45: AWT-EventQueue-0: Server is already running
+20:07:52: Chat server: socket accepted
+20:07:52: SocketThread/127.0.0.1:50954: start socket thread
+20:07:52: SocketThread/127.0.0.1:50954: socket thread is ready
+20:09:54: SocketThread/127.0.0.1:50954: Exceptionjava.net.SocketException: Connection reset
+20:20:25: Chat server: server thread start
+20:20:25: Chat server: server socket created
+20:20:26: Chat server: socket accepted
+20:20:26: SocketThread/127.0.0.1:54777: start socket thread
+20:20:26: SocketThread/127.0.0.1:54777: socket thread is ready
+20:20:32: SocketThread/127.0.0.1:54777: Exceptionjava.io.EOFException: null
+20:20:35: AWT-EventQueue-0: Server is already running
+20:20:36: Chat server: socket accepted
+20:20:36: SocketThread/127.0.0.1:54825: start socket thread
+20:20:36: SocketThread/127.0.0.1:54825: socket thread is ready
+20:20:42: SocketThread/127.0.0.1:54825: Exceptionjava.net.SocketException: Connection reset
+20:27:53: Chat server: server thread start
+20:27:53: Chat server: server socket created
+20:28:25: Chat server: socket accepted
+20:28:25: SocketThread/127.0.0.1:57048: start socket thread
+20:28:25: SocketThread/127.0.0.1:57048: socket thread is ready
+21:25:57: Chat server: server thread start
+21:25:58: Chat server: server socket created
+21:26:02: Chat server: socket accepted
+21:26:02: SocketThread/127.0.0.1:57366: start socket thread
+21:26:02: SocketThread/127.0.0.1:57366: socket thread is ready
+21:26:26: SocketThread/127.0.0.1:57366: Exceptionjava.io.EOFException: null
+21:26:34: Chat server: server thread start
+21:26:34: Chat server: server socket created
+21:26:40: Chat server: socket accepted
+21:26:40: SocketThread/127.0.0.1:57560: start socket thread
+21:26:40: SocketThread/127.0.0.1:57560: socket thread is ready
+21:27:26: AWT-EventQueue-0: Server is already running
+21:27:28: SocketThread/127.0.0.1:57560: Exceptionjava.io.EOFException: null
+21:27:32: Chat server: socket accepted
+21:27:32: SocketThread/127.0.0.1:57801: start socket thread
+21:27:32: SocketThread/127.0.0.1:57801: socket thread is ready
+21:27:39: SocketThread/127.0.0.1:57801: Exceptionjava.io.EOFException: null
+21:27:41: Chat server: socket accepted
+21:27:41: SocketThread/127.0.0.1:57843: start socket thread
+21:27:41: SocketThread/127.0.0.1:57843: socket thread is ready
+21:27:53: SocketThread/127.0.0.1:57843: Exceptionjava.io.EOFException: null
+21:28:18: Chat server: server thread start
+21:28:18: Chat server: server socket created
+21:28:23: Chat server: socket accepted
+21:28:23: SocketThread/127.0.0.1:58049: start socket thread
+21:28:23: SocketThread/127.0.0.1:58049: socket thread is ready
+21:29:44: Chat server: server thread start
+21:29:45: Chat server: server socket created
+21:29:49: Chat server: socket accepted
+21:29:49: SocketThread/127.0.0.1:58485: start socket thread
+21:29:49: SocketThread/127.0.0.1:58485: socket thread is ready
+21:30:17: SocketThread/127.0.0.1:58485: Exceptionjava.io.EOFException: null
+21:30:20: Chat server: socket accepted
+21:30:20: SocketThread/127.0.0.1:58621: start socket thread
+21:30:20: SocketThread/127.0.0.1:58621: socket thread is ready
+21:30:26: SocketThread/127.0.0.1:58621: Exceptionjava.net.SocketException: Connection reset
+21:30:30: Chat server: server thread start
+21:30:30: Chat server: server socket created
+21:30:35: Chat server: socket accepted
+21:30:35: SocketThread/127.0.0.1:58698: start socket thread
+21:30:35: SocketThread/127.0.0.1:58698: socket thread is ready
+21:41:43: Chat server: server thread start
+21:41:43: Chat server: server socket created
+21:41:49: Chat server: socket accepted
+21:41:49: SocketThread/127.0.0.1:61878: start socket thread
+21:41:49: SocketThread/127.0.0.1:61878: socket thread is ready
+21:43:45: SocketThread/127.0.0.1:61878: Exceptionjava.io.EOFException: null
+21:43:47: Chat server: socket accepted
+21:43:47: SocketThread/127.0.0.1:62438: start socket thread
+21:43:47: SocketThread/127.0.0.1:62438: socket thread is ready
+21:43:51: SocketThread/127.0.0.1:62438: Exceptionjava.net.SocketException: Connection reset
+21:43:53: AWT-EventQueue-0: Server is already running
+21:47:38: AWT-EventQueue-0: Server is not running
+21:47:38: Chat server: server thread start
+21:47:38: Chat server: server socket created
+21:47:45: Chat server: socket accepted
+21:47:45: SocketThread/127.0.0.1:63534: start socket thread
+21:47:45: SocketThread/127.0.0.1:63534: socket thread is ready
+21:48:00: SocketThread/127.0.0.1:63534: Exceptionjava.io.EOFException: null
+21:48:03: AWT-EventQueue-0: Server is already running
+21:48:19: Chat server: server thread start
+21:48:19: Chat server: server socket created
+21:48:24: Chat server: socket accepted
+21:48:24: SocketThread/127.0.0.1:63732: start socket thread
+21:48:24: SocketThread/127.0.0.1:63732: socket thread is ready
+21:48:37: SocketThread/127.0.0.1:63732: Exceptionjava.net.SocketException: Connection reset
+21:59:37: Chat server: server thread start
+21:59:37: Chat server: server socket created
+21:59:41: Chat server: socket accepted
+21:59:41: SocketThread/127.0.0.1:50582: start socket thread
+21:59:41: SocketThread/127.0.0.1:50582: socket thread is ready
+22:01:17: Chat server: server thread start
+22:01:17: Chat server: server socket created
+22:01:21: Chat server: socket accepted
+22:01:21: SocketThread/127.0.0.1:51066: start socket thread
+22:01:21: SocketThread/127.0.0.1:51066: socket thread is ready
+22:02:28: Chat server: server thread start
+22:02:29: Chat server: server socket created
+22:02:34: Chat server: socket accepted
+22:02:34: SocketThread/127.0.0.1:51425: start socket thread
+22:02:34: SocketThread/127.0.0.1:51425: socket thread is ready
+22:02:51: SocketThread/127.0.0.1:51425: Exceptionjava.net.SocketException: Connection reset
+22:05:13: Chat server: server thread start
+22:05:13: Chat server: server socket created
+22:05:18: Chat server: socket accepted
+22:05:18: SocketThread/127.0.0.1:52213: start socket thread
+22:05:18: SocketThread/127.0.0.1:52213: socket thread is ready
+22:05:26: SocketThread/127.0.0.1:52213: Exceptionjava.net.SocketException: Connection reset
+22:06:00: Chat server: server thread start
+22:06:00: Chat server: server socket created
+22:06:04: Chat server: socket accepted
+22:06:04: SocketThread/127.0.0.1:52433: start socket thread
+22:06:04: SocketThread/127.0.0.1:52433: socket thread is ready
+22:06:07: SocketThread/127.0.0.1:52433: Exceptionjava.net.SocketException: Connection reset
+22:08:14: Chat server: server thread start
+22:08:14: Chat server: server socket created
+22:08:21: Chat server: socket accepted
+22:08:21: SocketThread/127.0.0.1:53075: start socket thread
+22:08:21: SocketThread/127.0.0.1:53075: socket thread is ready
+09:34:51: Chat server: server thread start
+09:34:52: Chat server: server socket created
+09:34:57: Chat server: socket accepted
+09:34:57: SocketThread/127.0.0.1:51423: start socket thread
+09:34:57: SocketThread/127.0.0.1:51423: socket thread is ready
+09:35:05: SocketThread/127.0.0.1:51423: Exceptionjava.io.EOFException: null
+09:36:24: Chat server: server thread start
+09:36:25: Chat server: server socket created
+09:36:29: Chat server: socket accepted
+09:36:29: SocketThread/127.0.0.1:51499: start socket thread
+09:36:29: SocketThread/127.0.0.1:51499: socket thread is ready
+09:36:40: SocketThread/127.0.0.1:51499: Exceptionjava.net.SocketException: Connection reset
+09:36:46: Chat server: server thread start
+09:36:46: Chat server: server socket created
+09:36:51: Chat server: socket accepted
+09:36:51: SocketThread/127.0.0.1:51525: start socket thread
+09:36:51: SocketThread/127.0.0.1:51525: socket thread is ready
+09:36:53: SocketThread/127.0.0.1:51525: Exceptionjava.net.SocketException: Connection reset
+09:37:06: AWT-EventQueue-0: Server is already running
+09:37:11: Chat server: server thread start
+09:37:11: Chat server: server socket created
+09:37:17: Chat server: socket accepted
+09:37:17: SocketThread/127.0.0.1:51555: start socket thread
+09:37:17: SocketThread/127.0.0.1:51555: socket thread is ready
+09:38:27: SocketThread/127.0.0.1:51555: Exceptionjava.net.SocketException: Connection reset
+09:38:34: Chat server: server thread start
+09:38:34: Chat server: server socket created
+09:38:38: Chat server: socket accepted
+09:38:38: SocketThread/127.0.0.1:51617: start socket thread
+09:38:38: SocketThread/127.0.0.1:51617: socket thread is ready
+09:38:51: SocketThread/127.0.0.1:51617: Exceptionjava.net.SocketException: Connection reset
+10:37:03: Chat server: server thread start
+10:37:03: Chat server: server socket created
+10:37:09: Chat server: socket accepted
+10:37:09: SocketThread/127.0.0.1:54548: start socket thread
+10:37:09: SocketThread/127.0.0.1:54548: socket thread is ready
+10:40:56: Chat server: server thread start
+10:40:56: Chat server: server socket created
+10:41:01: Chat server: socket accepted
+10:41:01: SocketThread/127.0.0.1:54692: start socket thread
+10:41:01: SocketThread/127.0.0.1:54692: socket thread is ready
+10:41:40: SocketThread/127.0.0.1:54692: Exceptionjava.net.SocketException: Connection reset
+11:22:54: Chat server: server thread start
+11:22:55: Chat server: server socket created
+11:23:01: Chat server: socket accepted
+11:23:01: SocketThread/127.0.0.1:56963: start socket thread
+11:23:01: SocketThread/127.0.0.1:56963: socket thread is ready
+11:23:09: SocketThread/127.0.0.1:56963: Exceptionjava.net.SocketException: Connection reset
+11:25:00: AWT-EventQueue-0: Server is already running
+11:25:10: Chat server: socket accepted
+11:25:10: SocketThread/127.0.0.1:57087: start socket thread
+11:25:10: SocketThread/127.0.0.1:57087: socket thread is ready
+11:25:20: SocketThread/127.0.0.1:57087: Exceptionjava.net.SocketException: Connection reset
+11:25:57: AWT-EventQueue-0: Server is already running
+11:25:59: Chat server: socket accepted
+11:25:59: SocketThread/127.0.0.1:57122: start socket thread
+11:25:59: SocketThread/127.0.0.1:57122: socket thread is ready
+11:27:22: Chat server: server thread start
+11:27:22: Chat server: server socket created
+11:27:25: Chat server: socket accepted
+11:27:25: SocketThread/127.0.0.1:57189: start socket thread
+11:27:25: SocketThread/127.0.0.1:57189: socket thread is ready
+11:46:31: Chat server: server thread start
+11:46:31: Chat server: server socket created
+11:46:36: Chat server: socket accepted
+11:46:36: SocketThread/127.0.0.1:50185: start socket thread
+11:46:36: SocketThread/127.0.0.1:50185: socket thread is ready
+11:46:43: SocketThread/127.0.0.1:50185: Exceptionjava.net.SocketException: Connection reset
+11:50:48: Chat server: server thread start
+11:50:48: Chat server: server socket created
+11:50:53: Chat server: socket accepted
+11:50:53: SocketThread/127.0.0.1:50401: start socket thread
+11:50:53: SocketThread/127.0.0.1:50401: socket thread is ready
+11:51:11: SocketThread/127.0.0.1:50401: Exceptionjava.net.SocketException: Connection reset
+11:51:50: Chat server: server thread start
+11:51:50: Chat server: server socket created
+11:51:51: Chat server: socket accepted
+11:51:51: SocketThread/127.0.0.1:50446: start socket thread
+11:51:51: SocketThread/127.0.0.1:50446: socket thread is ready
+11:54:31: Chat server: server thread start
+11:54:31: Chat server: server socket created
+11:54:36: Chat server: socket accepted
+11:54:36: SocketThread/127.0.0.1:50614: start socket thread
+11:54:36: SocketThread/127.0.0.1:50614: socket thread is ready
+11:54:40: SocketThread/127.0.0.1:50614: Exceptionjava.net.SocketException: Connection reset
+11:54:50: Chat server: server thread start
+11:54:50: Chat server: server socket created
+11:55:07: Chat server: server thread start
+11:55:07: Chat server: server socket created
+11:55:24: Chat server: server thread start
+11:55:24: Chat server: server socket created
+11:55:33: Chat server: socket accepted
+11:55:33: SocketThread/127.0.0.1:50673: start socket thread
+11:55:33: SocketThread/127.0.0.1:50673: socket thread is ready
+11:55:38: SocketThread/127.0.0.1:50673: Exceptionjava.net.SocketException: Connection reset
+11:55:58: Chat server: server thread start
+11:55:59: Chat server: server socket created
+11:56:05: Chat server: socket accepted
+11:56:05: SocketThread/127.0.0.1:50704: start socket thread
+11:56:05: SocketThread/127.0.0.1:50704: socket thread is ready
+11:56:10: SocketThread/127.0.0.1:50704: Exceptionjava.net.SocketException: Connection reset
+12:01:20: Chat server: server thread start
+12:01:21: Chat server: server socket created
+12:01:25: Chat server: socket accepted
+12:01:25: SocketThread/127.0.0.1:50907: start socket thread
+12:01:25: SocketThread/127.0.0.1:50907: socket thread is ready
+12:01:29: SocketThread/127.0.0.1:50907: Exceptionjava.net.SocketException: Connection reset
+12:04:50: Chat server: server thread start
+12:04:50: Chat server: server socket created
+12:04:54: Chat server: socket accepted
+12:04:54: SocketThread/127.0.0.1:51169: start socket thread
+12:04:54: SocketThread/127.0.0.1:51169: socket thread is ready
+12:05:00: SocketThread/127.0.0.1:51169: Exceptionjava.net.SocketException: Connection reset
+12:05:12: Chat server: server thread start
+12:05:12: Chat server: server socket created
+12:05:19: Chat server: socket accepted
+12:05:19: SocketThread/127.0.0.1:51200: start socket thread
+12:05:19: SocketThread/127.0.0.1:51200: socket thread is ready
+12:05:33: SocketThread/127.0.0.1:51200: Exceptionjava.net.SocketException: Connection reset
+12:05:37: Chat server: socket accepted
+12:05:37: SocketThread/127.0.0.1:51217: start socket thread
+12:05:37: SocketThread/127.0.0.1:51217: socket thread is ready
+12:08:29: SocketThread/127.0.0.1:51217: Exceptionjava.net.SocketException: Connection reset
+12:08:34: Chat server: socket accepted
+12:08:34: SocketThread/127.0.0.1:51350: start socket thread
+12:08:34: SocketThread/127.0.0.1:51350: socket thread is ready
+12:09:23: SocketThread/127.0.0.1:51350: Exceptionjava.net.SocketException: Connection reset
+12:09:28: Chat server: socket accepted
+12:09:28: SocketThread/127.0.0.1:51388: start socket thread
+12:09:28: SocketThread/127.0.0.1:51388: socket thread is ready
+12:09:48: SocketThread/127.0.0.1:51388: Exceptionjava.net.SocketException: Connection reset
+12:09:53: Chat server: socket accepted
+12:09:53: SocketThread/127.0.0.1:51412: start socket thread
+12:09:53: SocketThread/127.0.0.1:51412: socket thread is ready
+12:11:04: SocketThread/127.0.0.1:51412: Exceptionjava.net.SocketException: Connection reset
+12:11:08: Chat server: socket accepted
+12:11:08: SocketThread/127.0.0.1:51460: start socket thread
+12:11:08: SocketThread/127.0.0.1:51460: socket thread is ready
+12:11:53: SocketThread/127.0.0.1:51460: Exceptionjava.net.SocketException: Connection reset
+12:11:57: Chat server: socket accepted
+12:11:57: SocketThread/127.0.0.1:51496: start socket thread
+12:11:57: SocketThread/127.0.0.1:51496: socket thread is ready
+12:12:58: SocketThread/127.0.0.1:51496: Exceptionjava.net.SocketException: Connection reset
+12:13:04: Chat server: socket accepted
+12:13:04: SocketThread/127.0.0.1:51569: start socket thread
+12:13:04: SocketThread/127.0.0.1:51569: socket thread is ready
+12:13:51: SocketThread/127.0.0.1:51569: Exceptionjava.net.SocketException: Connection reset
+12:13:55: Chat server: socket accepted
+12:13:55: SocketThread/127.0.0.1:51603: start socket thread
+12:13:55: SocketThread/127.0.0.1:51603: socket thread is ready
+12:14:28: AWT-EventQueue-0: Server is already running
+12:14:33: SocketThread/127.0.0.1:51603: Exceptionjava.net.SocketException: Connection reset
+12:14:37: Chat server: socket accepted
+12:14:37: SocketThread/127.0.0.1:51632: start socket thread
+12:14:37: SocketThread/127.0.0.1:51632: socket thread is ready
+12:14:47: AWT-EventQueue-0: Server is already running
+12:14:49: SocketThread/127.0.0.1:51632: Exceptionjava.net.SocketException: Socket closed
+19:41:05: Chat server: server thread start
+19:41:05: Chat server: server socket created
+19:41:07: Chat server: socket accepted
+19:41:07: SocketThread/127.0.0.1:54286: start socket thread
+19:41:07: SocketThread/127.0.0.1:54286: socket thread is ready
+19:41:46: SocketThread/127.0.0.1:54286: Exceptionjava.io.EOFException: null
+19:42:03: Chat server: server thread start
+19:42:03: Chat server: server socket created
+19:42:08: Chat server: socket accepted
+19:42:08: SocketThread/127.0.0.1:54341: start socket thread
+19:42:08: SocketThread/127.0.0.1:54341: socket thread is ready
+20:04:24: SocketThread/127.0.0.1:54341: Exceptionjava.net.SocketException: Connection reset
+20:04:31: Chat server: server thread start
+20:04:31: Chat server: server socket created
+20:04:36: Chat server: socket accepted
+20:04:36: SocketThread/127.0.0.1:55402: start socket thread
+20:04:36: SocketThread/127.0.0.1:55402: socket thread is ready
+20:04:49: SocketThread/127.0.0.1:55402: Exceptionjava.net.SocketException: Connection reset
