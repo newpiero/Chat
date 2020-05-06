@@ -1,5 +1,7 @@
 package network;
 
+import Server.Core.LogsChats;
+
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;

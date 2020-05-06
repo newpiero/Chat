@@ -1,6 +1,7 @@
 package Client;
 
 import Common.Library;
+import Server.Core.LogsChats;
 import network.SocketThread;
 import network.SocketThreadListener;
 
@@ -8,7 +9,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.net.Socket;
 import java.text.DateFormat;
@@ -38,7 +38,7 @@ public class ClientGUI extends JFrame implements ActionListener, Thread.Uncaught
 
     private final JList<String> userList = new JList<>();
     private final String[] EMPTY = new String[0];
-    private boolean shownIoErrors = false;
+//    private boolean shownIoErrors = false;
     private SocketThread socketThread;
 
     public static void main(String[] args) {
@@ -57,7 +57,7 @@ public class ClientGUI extends JFrame implements ActionListener, Thread.Uncaught
         setSize(WIDTH, HEIGHT);
 
         log.setEditable(false);
-        log.setLineWrap(true);
+        log.setLineWrap(false);
         JScrollPane scrollLog = new JScrollPane(log);
         JScrollPane scrollUsers = new JScrollPane(userList);
         scrollUsers.setPreferredSize(new Dimension(100, 0));
@@ -136,25 +136,17 @@ public class ClientGUI extends JFrame implements ActionListener, Thread.Uncaught
         socketThread.sendMessage(Library.getClientBcast(msg));
     }
 
-    private void wrtMsgToLogFile(String msg, String username) {
-        try (FileWriter out = new FileWriter("log.txt", true)) {
-            out.write(username + ": " + msg + "\n");
-            out.flush();
-        } catch (IOException e) {
-            if (!shownIoErrors) {
-                shownIoErrors = true;
-                JOptionPane.showMessageDialog(this, "File write error", "Exception", JOptionPane.ERROR_MESSAGE);
-            }
-        }
-    }
 
     private void putLog(String msg) {
         if ("".equals(msg)) return;
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
-                log.append(msg + "\n");
-                log.setCaretPosition(log.getDocument().getLength());
+               log.append(String.valueOf(LogsChats.loadMsgChatLogFileEnd100()));
+
+               log.append(msg + "\n");
+               log.setCaretPosition(log.getDocument().getLength());
+               LogsChats.saveMsgChatLogFile(msg);
             }
         });
     }
@@ -223,7 +215,8 @@ public class ClientGUI extends JFrame implements ActionListener, Thread.Uncaught
             default:
                 throw new RuntimeException("Unknown message type: " + value);
         }
-        //        wrtMsgToLogFile(msg, username);
+
+
 
     }
 }
